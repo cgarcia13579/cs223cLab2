@@ -1,6 +1,6 @@
 /*
   Project: wobgonAvg
-  Description:
+  Description: computes the average value of a set of values then computes the aveage of those values
 
 */
 #include <stdio.h>
